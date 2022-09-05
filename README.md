@@ -1,6 +1,3 @@
-The frontend of this solution is based on GitHub 
-
-https://github.com/NickJocius/flask-react/tree/5b4eb7a3dd0474004b37777a542d2c988e36287b
 
 
 Some problem I resolved with this repo:
